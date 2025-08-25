@@ -28,9 +28,6 @@ Here’s a preview of the website:
 
 ---
 
-## 📂 Project Structure
-
-
-
-## Link
-https://abhishek-1273.github.io/Week-2-Product-WebPage/
+## 🌐 Live Website
+- Click here to visit TechHive
+- https://abhishek-1273.github.io/Week-2-Product-WebPage/
